@@ -1,0 +1,6 @@
+# Lines starting with `#` are comments.
+
+# Ignore files 
+.env
+node_modules
+dist/
